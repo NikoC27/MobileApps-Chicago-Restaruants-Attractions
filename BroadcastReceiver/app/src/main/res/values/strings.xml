@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string-array name="AttractionTitles">
+        <item>Navy Pier</item>
+        <item>Guaranteed Rate Field</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Museum of Science and Industry</item>
+        <item>Millennium Park</item>
+    </string-array>
+    <string-array name="AttractionUrls">
+        <item>https://navypier.org</item>
+        <item>https://www.mlb.com/whitesox</item>
+        <item>https://www.lpzoo.org</item>
+        <item>https://www.msichicago.org</item>
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+    </string-array>
+    <string-array name="RestaurantTitles">
+        <item>Half Shell</item>
+        <item>The Purple Pig</item>
+        <item>Giordanos</item>
+        <item>RPM Italian</item>
+        <item>Virtue Restaurant</item>
+    </string-array>
+    <string-array name="RestaurantUrls">
+        <item>http://halfshellchicago.com</item>
+        <item>https://thepurplepigchicago.com</item>
+        <item>https://giordanos.com</item>
+        <item>https://www.rpmrestaurants.com/rpm-italian-chicago/</item>
+        <item>https://www.virtuerestaurant.com</item>
+    </string-array>
+</resources>

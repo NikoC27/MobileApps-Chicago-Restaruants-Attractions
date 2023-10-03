@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadcastSender</string>
+    <string name="attractions">Attractions</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="left_button_pulls_up_popular_chicago_attractions">Left Button pulls up popular Chicago Attractions!</string>
+    <string name="right_button_pulls_up_popular_chicago_restaurants">Right Button pulls up popular Chicago Restaurants!</string>
+</resources>
